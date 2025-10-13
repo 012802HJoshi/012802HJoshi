@@ -1,31 +1,12 @@
-<!-- ![](/1.gif)
-![](/2.jpeg)
-![](/3.jpeg)
-![](/4.jpeg)
-![](/5.jpeg)
-![](/6.jpeg)
-![](/7.jpeg)
-![](/8.jpeg)
-![](/9.jpeg)
-![](/10.jpeg) -->
-![](/11.jpeg)
-<!-- ![](/12.jpeg)
-![](/13.jpeg)
-![](/14.jpeg)
-![](/15.jpeg) -->
+![](/Linux.png)
+
+- 🔭 I’m currently working on MERN & DevOps
+- 🌱 I’m currently learning Advanced System Design, Microservices, and Cloud Infrastructure (AWS, GCP)
+- 👯 I’m looking to collaborate on Large Scale Web Applications, DevOps Pipelines, and Open Source Projects
+- 🤔 I’m looking for help with Optimizing Backend Performance and Scalable CI/CD Architecture
+- 💬 Ask me about MERN Stack, Docker, Kubernetes, Jenkins, and Cloud Deployment
+- 📫 How to reach me: [harshitjoshi2002@gmail.com] | [LinkedIn](https://www.linkedin.com/in/harshit-joshi-120910279) | [Portfolio](https://yourportfolio.com)
+- ⚡ Fun fact: I automate everything — even my coffee brewing ☕
 
 
-<!--
-**012802HJoshi/012802HJoshi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
